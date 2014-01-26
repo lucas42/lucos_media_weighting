@@ -1,0 +1,7 @@
+{
+	"name": "Media Weighting",
+	"commands": {
+		"Rebuild": "ghc weighting.hs -o weighting",
+		"Run": "./weighting"
+	}
+}
