@@ -1,4 +1,4 @@
-#lucos Media Weighting
+# lucos Media Weighting
 A haskell script for deciding the relative likelihood of playing each track.
 
 This script dosen't make a great deal of sense on its own - it  should be used alongside other lucos_media* modules
@@ -19,3 +19,6 @@ Create a ```config.txt``` file in the root of the project.  This should use a sy
 
 ## Running
 * Run ```./weighting```
+
+## Supersceded
+This script interacts directly with the database, which isn't ideal.  It's been supersceded by (lucos_media_weightings)[https://github.com/lucas42/lucos_media_weightings] which interacts via a HTTP API
