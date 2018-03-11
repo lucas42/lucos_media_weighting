@@ -21,4 +21,4 @@ Create a ```config.txt``` file in the root of the project.  This should use a sy
 * Run ```./weighting```
 
 ## Supersceded
-This script interacts directly with the database, which isn't ideal.  It's been supersceded by (lucos_media_weightings)[https://github.com/lucas42/lucos_media_weightings] which interacts via a HTTP API
+This script interacts directly with the database, which isn't ideal.  It's been supersceded by [lucos_media_weightings](https://github.com/lucas42/lucos_media_weightings) which interacts via a HTTP API
